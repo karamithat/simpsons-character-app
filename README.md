@@ -36,3 +36,4 @@ This project is developed by [Mithat Kara]
 
 ## Live Demo
 
+https://simpsons-character-app.vercel.app/
