@@ -8,14 +8,14 @@ The saved characters are stored in local storage and the sorting is always saved
 
 ## Built With
 
-React
-React Router 
-Context API
-Vite
-Tailwind CSS
-react-icons
-Vitest / testing-library
-Formik / Yup
+- React
+- React Router 
+- Context API
+- Vite
+- Tailwind CSS
+- react-icons
+- Vitest / testing-library
+- Formik / Yup
 
 ## Installation
 ### `npm install`
